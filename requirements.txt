@@ -1,0 +1,5 @@
+flask
+python-dotenv
+pyppeteer
+pyppeteer-stealth
+apscheduler
